@@ -1,5 +1,5 @@
 # Hi, I'm Aman Narsu
-### I am a passionate Data engineer from United kingdom. I love programming and problem solving usin Python and C#.
+### I am a passionate Data engineer from United kingdom. I love programming and problem solving using Python and C#.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amannarsu&label=Profile%20views&color=0e75b6&style=flat" alt="amannarsu" /> </p>
 
